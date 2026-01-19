@@ -15,7 +15,7 @@ html, body {
 
 body{
     height: 100vh;
-    background-image:url(../image/pic.png);
+    background-image:url(pic.png);
     background-repeat:no-repeat ;
     background-position: center;
     background-attachment: fixed;
@@ -944,6 +944,7 @@ background-position: 0% 50%;
     margin-top: 0;
     padding: 5px;
 }
+
 
 
 
